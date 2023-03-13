@@ -118,7 +118,6 @@ body {
 }
 
 .imagem_gustavo {
-    height: 550px;
     width: 50%;
     border-radius: 8px;
     box-shadow: 3px 3px var(--cor-terciaria);
